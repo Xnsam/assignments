@@ -1,2 +1,13 @@
-# assignments
-practise. practise. practise
+det_mat
+largest_3
+cal
+sym_matrix_add
+multiplication_mat
+palindrome
+sub_palindrome
+birthday
+odd_even
+list_less_than_num
+divisors
+list_overlap
+README
